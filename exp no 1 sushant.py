@@ -1,5 +1,5 @@
    #integer
-Roll_no=262
+Roll_no=247
 print(type(Roll_no))
 
 #float
@@ -22,7 +22,7 @@ f=(10,20,30)
 print(type(f))
 
 #dictionary
-g={"name":"dev",
+g={"name":"sahu",
    "age":20}
 print(type(g))
 
