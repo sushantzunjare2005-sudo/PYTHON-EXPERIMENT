@@ -22,7 +22,7 @@ f=(10,20,30)
 print(type(f))
 
 #dictionary
-g={"name":"heisenberg",
+g={"name":"sushant",
    "age":20}
 print(type(g))
 
